@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SaurabhPracticle</string>
+    <string name="lbl_welcome">Welcome!!</string>
+    <string name="btnlogin">Login</string>
+    <string name="interconnection">Please Check Your Internet Connection</string>
+    <string name="enteremail">Please Enter Email</string>
+    <string name="enterpass">Please Enter Password</string>
+</resources>
